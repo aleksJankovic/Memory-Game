@@ -1,0 +1,12 @@
+C:\Users\PC user\Desktop\MG_46_2020\MG_46_2020\obj\Debug\MG_46_2020.csproj.AssemblyReference.cache
+C:\Users\PC user\Desktop\MG_46_2020\MG_46_2020\obj\Debug\MG_46_2020.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC user\Desktop\MG_46_2020\MG_46_2020\obj\Debug\MG_46_2020.g.resources
+C:\Users\PC user\Desktop\MG_46_2020\MG_46_2020\bin\Debug\MG_46_2020.exe.config
+C:\Users\PC user\Desktop\MG_46_2020\MG_46_2020\bin\Debug\MG_46_2020.exe
+C:\Users\PC user\Desktop\MG_46_2020\MG_46_2020\bin\Debug\MG_46_2020.pdb
+C:\Users\PC user\Desktop\MG_46_2020\MG_46_2020\obj\Debug\MG_46_2020.MemoryGame.resources
+C:\Users\PC user\Desktop\MG_46_2020\MG_46_2020\obj\Debug\MG_46_2020.Properties.Resources.resources
+C:\Users\PC user\Desktop\MG_46_2020\MG_46_2020\obj\Debug\MG_46_2020.csproj.GenerateResource.cache
+C:\Users\PC user\Desktop\MG_46_2020\MG_46_2020\obj\Debug\MG_46_2020.csproj.CoreCompileInputs.cache
+C:\Users\PC user\Desktop\MG_46_2020\MG_46_2020\obj\Debug\MG_46_2020.exe
+C:\Users\PC user\Desktop\MG_46_2020\MG_46_2020\obj\Debug\MG_46_2020.pdb
